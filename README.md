@@ -1,6 +1,5 @@
-# drinkingWaterPotability
-Project 2: Drinking Water Potability Prediction Model
-Uploaded: 11/1/2026
+# Drinking Water Potability Prediction Model  
+Uploaded: 11/01/2026  
 Description: This is a Random Forest Model that predicts the water potability of water samples given chemical water quality parameters. It includes an interactive UI that allows users to choose between five pre-set samples as well as input their own measured parameters
 
 This code runs on Python 3.0+
